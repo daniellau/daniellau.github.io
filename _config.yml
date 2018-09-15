@@ -1,10 +1,10 @@
 # Site settings
-title:       Daniel Lau - UX Portfolio
+title:       Daniel Lau
 email:       laud4@uci.edu
 author:      Daniel Lau
 description: "Daniel Lau's UX Portfolio"
-baseurl:     ""
-url:         "http://daniellau.org"
+baseurl:     "/"
+url:         "http://www.daniellau.org"
 street_address:
 city: San Francisco
 state: CA
@@ -19,8 +19,8 @@ tiles-count: 1
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://github.com/daniellau
+github_url: https://github.com/daniellau
+gitlab_url:
 googleplus_url:
 instagram_url:
 linkedin_url: https://www.linkedin.com/in/daniel-lau/
