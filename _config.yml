@@ -2,7 +2,7 @@
 title:       Daniel Lau
 email:       laud4@uci.edu
 author:      Daniel Lau
-description: "Daniel Lau's UX Portfolio"
+description: "I'm currently a Master of Human Computer Interaction and Design student at UC Irvine. I specialize in UX Research, Design, and Strategy."
 baseurl:     ""
 url:         "http://www.daniellau.org"
 street_address:
@@ -14,7 +14,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 1
+tiles-count: 6
 
 # social settings
 500px_url:

@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Daniel Lau. I specialize is User Experience.'
+landing-title: 'Hi, my name is Daniel Lau.'
 description: null
 image: null
 author: null
