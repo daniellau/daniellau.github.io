@@ -3,8 +3,8 @@ title:       Daniel Lau
 email:       laud4@uci.edu
 author:      Daniel Lau
 description: "Daniel Lau's UX Portfolio"
-baseurl:     "/"
-url:         "https://www.daniellau.org"
+baseurl:     ""
+url:         "http://www.daniellau.org"
 street_address:
 city: San Francisco
 state: CA
