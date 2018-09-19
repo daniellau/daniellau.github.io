@@ -1,7 +1,7 @@
 ---
-title: Landing
-layout: landing
-description: 'Inducing creativity.'
+title: Sketching
+layout: sketching
+description: 'Sketching is about designing, not drawing.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Sketching to induce creativity.</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Sketching is about designing, not drawing. For years, I made the mistake of quickly going to mockups for projects at work. I didn’t value sketching very much, thinking that my own drawing abilities were insufficient in bringing to life ideas I had in mind. My best work was limited to mockup tools and brief iterations of my initial design. But now I’ve come to realize the importance of sketching. Stripped of fancy software, sketching allows me to quickly get any and all ideas on paper. The better ideas can be explored and developed into great ideas. The very best ideas could eventually make it to the prototype stage. This iterative process gives me the ability to actually design my best work. Being able to throw away sketches allows me to walk away from bad designs without wasting a lot of time and energy. For projects that I work on, the goal is to create applications with wonderful user experiences. It could be argued that these experiences must be developed out of a good discipline of sketching. I also enjoyed the fact that someone could critique my sketch. The critiquing aspect allows me to see my sketch from different points of view. The collaboration aspect of it only improves the idea more.</p>
 	</div>
 </section>
 
