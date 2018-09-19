@@ -2,7 +2,7 @@
 title: Sketching
 layout: sketching
 description: 'Sketching is about designing, not drawing.'
-image: assets/images/pic07.jpg
+image: assets/images/sketching.jpg
 nav-menu: true
 ---
 
