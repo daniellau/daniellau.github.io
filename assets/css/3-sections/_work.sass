@@ -5,9 +5,9 @@
 .noscript
   display: none
 
-/ @each $proj in $projects
-/   ##{$proj}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
-/     display: block
+@each $proj in $projects
+  #{$proj}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
+    display: block
 
 .return
   display: none
