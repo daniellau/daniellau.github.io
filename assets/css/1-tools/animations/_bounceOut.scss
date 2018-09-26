@@ -3,19 +3,17 @@
   Source: Bounce.Js */
 
 // Initial Class
-%animationstart_bounceOut{
-  height: 0%;
-  width: 0%;
-  top: 0%;
-  overflow: hidden;
-}
+%animationstart_bounceOut
+  height: 0%
+  width: 0%
+  top: 0%
+  overflow: hidden
 
 // Animation Class
-%bounceOut {
-  -webkit-animation: animation 1s linear both;
-  animation: animation 1s linear both;
-  z-index: 2;
-}
+%bounceOut
+  -webkit-animation: animation 1s linear both
+  animation: animation 1s linear both
+  z-index: 2
 
 @-webkit-keyframes animation { 
   0% {height: 0%; width: 0%; -webkit-transform: matrix3d(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); transform: matrix3d(0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1); }
