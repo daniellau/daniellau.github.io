@@ -1,36 +1,12 @@
-# Site settings
-title:       Daniel Lau
-email:       laud4@uci.edu
-author:      Daniel Lau
-description: "I'm currently a Master of Human Computer Interaction and Design student at UC Irvine.\n\n
-I specialize in UX Research, Design, and Strategy."
-baseurl:     ""
-url:         "http://www.daniellau.org"
-street_address:
-city: San Francisco
-state: CA
-zip_code:
-country: United States of America
-phone:
+# Build settings
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 0
-
-# social settings
-500px_url:
-facebook_url:
-github_url: https://github.com/daniellau
-gitlab_url:
-googleplus_url:
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/daniel-lau/
-pinterest_url:
-slack_url:
-twitter_url:
-
-# build settings
 markdown: kramdown
+permalink: pretty
+
+port: 8000
+
+include: ['_includes/work']
 
 sass:
-  style: compressed
+  sass_dir: assets/css
+  style: :nested
