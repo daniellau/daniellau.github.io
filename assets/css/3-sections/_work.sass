@@ -6,7 +6,7 @@
   display: none
 
 @each $proj in $projects
-  #{$proj} ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
+  #{$proj}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
     display: block
 
 .return
