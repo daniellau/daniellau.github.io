@@ -77,7 +77,7 @@ clients:
 - {avatar: 'harshit.jpg',
   name: 'Harshit Pandey',
   title: 'Sr. Product Architect, Enterprise Architecture',
-  quote: '<p><strong>Daniel has exceptional talent in architecting and documenting solutions.</strong> He has a great taste UI/UX design skills but at the same time, thinks like a solution architect, proposes a scalable solutions and, mitigates problems by foreseeing issues.</p>',
+  quote: '<p><strong>Daniel has exceptional talent in architecting and documenting solutions.</strong> He has great UI/UX design skills but at the same time, thinks like a solution architect, proposes a scalable solutions, and mitigates problems by foreseeing issues.</p>',
   logo: 'intuitive.png'}
 # - {avatar: 'face-atariboy.jpg',
 #   name: 'Hank McCoy',
