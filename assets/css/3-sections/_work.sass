@@ -2,24 +2,24 @@
   overflow-x: hidden
 
 /* Hackey-type CSS as a jQuery Alternative for when the browser does not have jQuery enabled. */
-.noscript
-  display: none
+/ .noscript
+/   display: none
 
-@each $proj in $projects
-  #{$proj}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
-    display: block
+/ @each $proj in $projects
+/   #{$proj}:checked ~ .work-belt .work-wrap .work-container noscript #content-#{$proj}
+/     display: block
 
-.return
-  display: none
+/ .return
+/   display: none
 
-.trigger
-  display: none
+/ .trigger
+/   display: none
 
-  &:checked ~ .work-belt
-    left: -100%
+/   &:checked ~ .work-belt
+/     left: -100%
 
-    .work-wrap .work-container
-      display: block
+/     .work-wrap .work-container
+/       display: block
 /* End of gross / hackey CSS */
 
 .work-belt
