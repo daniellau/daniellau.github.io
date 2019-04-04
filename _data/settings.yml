@@ -58,7 +58,7 @@ skills:
 # Work Section
 
 projects:
-- {name: TBA, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Tesla Heuristic Evaluation, folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: TBA, folder: 'proj-8', file: 'work/proj-8.html'}
 - {name: TBA, folder: 'proj-8', file: 'work/proj-8.html'}
 - {name: TBA, folder: 'proj-8', file: 'work/proj-8.html'}
