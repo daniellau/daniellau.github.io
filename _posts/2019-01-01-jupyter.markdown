@@ -8,7 +8,7 @@ date:   2019-01-01 12:12:12
 ---
 
 ### Overview
-We were asked to redesign the Jupyter.org website for a general audience, highlighting Jupyter's technology, community, and open source values. The website should not just accomodate researchers, scientists, and developers, but it should also accomodate CTOs and 6th graders as well.
+We were asked to redesign the Jupyter.org website for a general audience, highlighting Jupyter's technology, community, and open source values. The website should not only accomodate researchers, scientists, and developers, but it should also accomodate CTOs and 6th graders as well.
 
 ### High Fidelity Mockups
 ![Jupyter.org Redesign]({{ site.github.url }}/img/jupyter/img01.png)
