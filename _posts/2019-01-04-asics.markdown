@@ -1,0 +1,52 @@
+---
+title:  "Asics"
+subtitle: "Competitive Analysis"
+author: "Daniel Lau"
+avatar: "img/authors/danvitar.jpg"
+image: "img/asics/asics.png"
+date:   2019-01-04 12:12:12
+---
+
+### Overview
+I created a competitive analysis for the Asics shoe finder minisite. Evaluating the shoe finding tools amongst Asics’ competitors gave valuable insight into what makes a great experience. The goal of shoe finding tools is to help users find the right shoe that best fits their lifestyle, goals, training parameters, and injury history. 
+
+Successful tools gave only top recommendations based on those criteria. Good tools also educated new runners on running terminology and concepts, while still giving streamlined processes for avid or returning runners.
+
+### Competitive Analysis
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img01.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img02.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img03.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img04.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img05.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img06.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img07.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img08.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img09.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img10.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img11.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img12.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img13.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img14.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img15.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img16.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img17.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img18.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img19.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img20.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img21.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img22.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img23.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img24.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img25.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img26.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img27.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img28.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img29.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img30.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img31.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img32.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img33.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img34.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img35.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img36.png)
+![Asics Competitive Analysis]({{ site.github.url }}/img/asics/img37.png)

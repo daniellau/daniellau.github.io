@@ -1,0 +1,47 @@
+---
+title:  "Tesla"
+subtitle: "Heuristic Evaluation"
+author: "Daniel Lau"
+avatar: "img/authors/danvitar.jpg"
+image: "img/tesla/model-3.jpg"
+date:   2019-01-06 12:12:12
+---
+
+### Overview
+My team performed an expert heuristic evaluation on Tesla’s Model 3 minisite. The minisite allows users to configure the Model 3 of their dreams and place an order online without having to go to a car dealership.
+
+The purpose of our report is to identify key usability issues and deliver our recommendations so Tesla can create an even more enjoyable online car buying experience for the Model 3.
+
+My team identified 5 positives, 8 cosmetic issues, 18 minor issues, 7 major issues, and 2 catastrophic issues across the Model 3 minisite.
+
+
+### Evaluation
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img01.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img02.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img03.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img04.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img05.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img06.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img07.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img08.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img09.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img10.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img11.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img12.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img13.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img14.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img15.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img16.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img17.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img18.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img19.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img20.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img21.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img22.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img23.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img24.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img25.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img26.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img27.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img28.png)
+![Tesla Heuristic Evaluation]({{ site.github.url }}/img/tesla/img29.png)
