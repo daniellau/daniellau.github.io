@@ -13,6 +13,4 @@ Alex and I created a design concept that uses art for homeless advocacy in San F
 Homelessness is a major issue in the world. We decided we wanted to think outside the box on how to tackle the issue. One of the main areas of concern that we tried to tackle is apathy towards homeless people. Most people don't know why people end up homeless. We wanted to create an art block in Hayes Valley to educate people on the homeless issue.
 
 ### Design Concept
-<iframe id="player" type="text/html" width="640" height="390"
-  src="http://www.youtube.com/embed/yR1mqN1NIwI"
-  frameborder="0"></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/yR1mqN1NIwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
