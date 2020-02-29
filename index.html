@@ -10,12 +10,21 @@ pagination:
 <div class="posts">
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
-
-      {% for post in paginator.posts %}
-
-        <!-- The tag below includes the markup for each post - partials/post-card.html -->
-        {% include post-card.html %}
-
+      {% for post in site.posts %}
+        <article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+          <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
+            {% if post.image %}
+              <figure class="posts__img">
+                <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="fade-in" itemprop="image"/>
+              </figure>
+            {% endif %}
+            <div>
+              <span class="posts__category">{{ post.category }}</span>
+              <h2 class="posts__text"><strong itemprop="name">{{ post.title }}</strong><br/>
+              {{ post.excerpt words="35" }}</h2>
+            </div>
+          </a>
+        </article>
       {% endfor %}
     </div>
   </div>
