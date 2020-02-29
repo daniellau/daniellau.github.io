@@ -7,10 +7,10 @@ google_analytics:
 name: Daniel Lau
 title: DLUX
 description: >
-  UX Design portfolio for Daniel Lau
-url: 
+  Daniel Lau's UX Portfolio
+url: https://www.daniellau.org
 twitter_username: 
-default_img: /assets/images/seo.png
+default_img: /assets/images/seo.jpg
 social:
   - name: linkedin
     url: https://www.linkedin.com/in/daniel-lau/
