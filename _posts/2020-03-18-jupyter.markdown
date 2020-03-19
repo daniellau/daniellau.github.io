@@ -44,26 +44,37 @@ These tools can support interactive computing and data analysis across any progr
 
 ## Competitive Analysis
 ![Competitive Analysis](/assets/images/jupyter/competitive-analysis.png)
+In contrast to Jupyter, their competitors have the advantage of being for-profit and employing vast development teams, so while Jupyter’s user base is significantly larger, competitors had much more effective websites. Detailed analysis of these sites brought substantial insight into our own designs and helped us understand what works well in this market’s environment.
 
 ## Interviews
 ![Interviews](/assets/images/jupyter/interviews.png)
+Members of this community share Jupyter’s mission values with pride, thus caring deeply for its success. Jupyter’s technical merit is abundantly clear, so our challenge here is to capture the social and emotional appeal on the website.
 
 ## Archetypes
 ![Archetypes](/assets/images/jupyter/archetypes.png)
+These archetypes embody various different backgrounds and needs of potential visitors to Jupyter.org.
 
 ## Cognitive Walkthrough
 ![Cognitive Walkthrough](/assets/images/jupyter/cognitive-walkthroughs.png)
+We used cognitive walkthroughs to aid our understanding of the site’s information architecture, user journey flows, and navigation pain points.
 
 ## Sketches
 ![Sketches](/assets/images/jupyter/sketching.png)
 
 ## Mockups - Version 1
 ![Mockups - Version 1](/assets/images/jupyter/v1-mockups.png)
+For the initial mockups, we used Validately.com to conduct remote and unmoderated user testing. Our goal was to see whether those who are unfamiliar with the website could intuitively navigate the website based on the information architecture and hierarchy. We discovered that the emphasis on individual comunities was far too confusing and thus had to reconsider the information architecture.
 
 ## Design System
 ![Design System](/assets/images/jupyter/design-system.png)
+In congruence with client needs and further evangelizing the benefits of open-source, we decided to move forward utilizing Google’s established Material Design as the foundation for our design system. 
+
+By customizing this open-source library of design components, we enabled a depth of branding without having to leverage the tested, flexible, and accessible aspects Material Design has to offer. This held substantial benefits for development as well, freeing a majority of development time that would have otherwise been spent on recreating custom components and their nuanced functionality from scratch.
 
 ## High-Fidelity Prototype
+After several rounds of usability tests and collaboration with the community, we were able to create a high fidelity prototype that was user-friendly, accessible, and scalable. We improved content discoverability for users both new and current by building a website filled with engaging content,
+an organized sitemap, and a dynamic pivot table.
+
 ![Hifi Home Page](/assets/images/jupyter/hifi/Home.png)
 ![Hifi About Page](/assets/images/jupyter/hifi/About.png)
 ![Hifi Jupyter Notebook Page](/assets/images/jupyter/hifi/JupyterNotebook.png)
