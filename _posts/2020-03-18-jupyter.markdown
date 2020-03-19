@@ -50,6 +50,21 @@ In contrast to Jupyter, their competitors have the advantage of being for-profit
 ![Interviews](/assets/images/jupyter/interviews.png)
 Members of this community share Jupyter’s mission values with pride, thus caring deeply for its success. Jupyter’s technical merit is abundantly clear, so our challenge here is to capture the social and emotional appeal on the website.
 
+## Affinity Diagrams
+![Website Affinity Diagram](/assets/images/jupyter/website-affinity.png)
+![Community Affinity Diagram](/assets/images/jupyter/community-affinity.png)
+Affinity diagrams are used to organize data into groupings based on their natural relationships. We created two using insights gathered from our surveys and in-depth interviews with Jupyter users, non-users, contributors, and community members. The diagrams later helped us construct jobs-to-be-done and archetypes.
+
+The insights around functional motivations were sorted into the following categories:
+  - Defining Jupyter
+  - Reputation
+  - Open Source
+  - Benefits
+  - Pain Points
+  - Community
+  - Usage
+  - Website
+
 ## Archetypes
 ![Archetypes](/assets/images/jupyter/archetypes.png)
 These archetypes embody various different backgrounds and needs of potential visitors to Jupyter.org.
@@ -61,8 +76,8 @@ We used cognitive walkthroughs to aid our understanding of the site’s informat
 ## Sketches
 ![Sketches](/assets/images/jupyter/sketching.png)
 
-## Mockups - Version 1
-![Mockups - Version 1](/assets/images/jupyter/v1-mockups.png)
+## Mockups
+![Mockups](/assets/images/jupyter/v1-mockups.png)
 For the initial mockups, we used Validately.com to conduct remote and unmoderated user testing. Our goal was to see whether those who are unfamiliar with the website could intuitively navigate the website based on the information architecture and hierarchy. We discovered that the emphasis on individual comunities was far too confusing and thus had to reconsider the information architecture.
 
 ## Design System
