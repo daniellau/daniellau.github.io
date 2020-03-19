@@ -1,0 +1,74 @@
+---
+layout: post
+title: "Jupyter.org"
+date: 2020-03-18
+category: "Research | Design"
+description: 
+image: /assets/images/jupyter/cover.png
+author: Daniel Lau
+tags: 
+  - UX Research
+  - UX Design
+  - Design System
+---
+Jupyter.org aims to guide and inform individuals, organizations, contributors, and sponsors about Project Jupyter’s core values, technology, and community.
+
+The current website does not effectively communicate this information to these parties. This problem calls for a complete website re-design.
+
+UX principles will be used to analyze the issues with the experience and how it could be improved. 
+
+## What is Jupyter?
+![Jupyter logo](/assets/images/jupyter/logo.png)
+Jupyter software is a suite of free tools designed for interactive and reproducible computing. It consists of three major layers: kernel, middle ware, and application. Each layer is interchangeable.
+
+These tools can support interactive computing and data analysis across any programming language. Users around the world have used them for various purposes such as academia, research, industry, and journalism.
+
+## Heuristic Evaluation
+![Heuristic Evaluation - main message is lost](/assets/images/jupyter/heuristic-1.png)
+![Heuristic Evaluation - no differentiation in text that leads to difficult readability](/assets/images/jupyter/heuristic-2.png)
+![Heuristic Evaluation - navigation links and different hover states aren't standardized ](/assets/images/jupyter/heuristic-3.png)
+![Heuristic Evaluation - text styling offers little differentiation which makes it difficult to read](/assets/images/jupyter/heuristic-4.png)
+![Heuristic Evaluation - design inconsistencies with different logos & navigation positions](/assets/images/jupyter/heuristic-5.png)
+
+##### Jupyter.org Strengths
+  - Useful and detailed information
+  - Establishes credibility
+  - Flexibility and ease-of-use
+  - User feedback
+
+##### Jupyter.org Weaknesses
+  - Multiple bugs
+  - Design inconsistencies
+  - Missing calls-to-action
+  - Text-heavy content
+
+## Competitive Analysis
+![Competitive Analysis](/assets/images/jupyter/competitive-analysis.png)
+
+## Interviews
+![Interviews](/assets/images/jupyter/interviews.png)
+
+## Archetypes
+![Archetypes](/assets/images/jupyter/archetypes.png)
+
+## Cognitive Walkthrough
+![Cognitive Walkthrough](/assets/images/jupyter/cognitive-walkthroughs.png)
+
+## Sketches
+![Sketches](/assets/images/jupyter/sketching.png)
+
+## Mockups - Version 1
+![Mockups - Version 1](/assets/images/jupyter/v1-mockups.png)
+
+## Design System
+![Design System](/assets/images/jupyter/design-system.png)
+
+## High-Fidelity Prototype
+![Hifi Home Page](/assets/images/jupyter/hifi/Home.png)
+![Hifi About Page](/assets/images/jupyter/hifi/About.png)
+![Hifi Jupyter Notebook Page](/assets/images/jupyter/hifi/JupyterNotebook.png)
+![Hifi Jupyter Lab Page](/assets/images/jupyter/hifi/JupyterLab.png)
+![Hifi Jupyter Hub Page](/assets/images/jupyter/hifi/JupyterHub.png)
+![Hifi Documentation Page](/assets/images/jupyter/hifi/Documentation.png)
+![Hifi Community Page](/assets/images/jupyter/hifi/Community.png)
+![Hifi Events Page](/assets/images/jupyter/hifi/Events.png)
